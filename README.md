@@ -14,8 +14,8 @@ we are going to combine two images in a hybrid image.
     4. The output of the nested loop is the convoluted image.
     
     
-# Hybrid image
-Algorithm
+# Hybrid image-Algorithm
+
     1. Use the blur filter on one image to get the low frequencies
     2. Blur the second image then subtract it from the original one to get the high
     frequency content from it
