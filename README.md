@@ -21,8 +21,12 @@ we are going to combine two images in a hybrid image.
     frequency content from it
     3. Then add the two images to get the hybrid one.
     4. All the hybrid images are generated using square gaussian filter
-    Results
+ # Results
     Hybrid images are done by combining two images and using a low pass filter on
     one image and a high pass filter on the other.
     
+ # sample images
+ 
   
+![hybrid_image_scalesmotor_bycycle](https://user-images.githubusercontent.com/49596777/221066080-601102e2-00a9-44c4-8251-1f2c00ff6c5f.jpg)
+![hybrid_image_scales_dog_cat](https://user-images.githubusercontent.com/49596777/221066126-004a9f35-8fb0-455b-a032-de725d3d1fc3.jpg)
